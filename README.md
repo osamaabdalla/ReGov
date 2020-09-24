@@ -8,7 +8,12 @@ After downloading the code, run the following command to start the app:
 $ npm start
 ```
 
-### the app is built using:
+### Temp login data:
+
+- Email: admin@test.com
+- Password: admin123
+
+### The app is built using:
 
 - Meteor
 - Reactjs
@@ -23,6 +28,29 @@ $ npm start
 - Recover Password
 - Update submission
 - Delete submission
+
+
+### Deployment instructions
+
+The app embedded with meteor-up package, so it is ready to be deployed to any server, you have to change your server credentials:
+
+mup file location: (".deploy/mup.js")
+
+```sh
+host: 'YOUR-HOST.com',
+username: 'USERNAME',
+pem: 'pem PATH' (or: password: 'YOUR-SERVER-PASS'),
+name: 'APP-NAME',
+ROOT_URL: 'app.com',
+```
+After changing your server credentials, run the following commands to deploy:
+
+```sh
+mup setup
+mup deploy
+```
+** dont forget to install mongodb in your server before deployment.
+
 
 
 ### Folders structure
