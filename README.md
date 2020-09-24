@@ -49,7 +49,7 @@ After changing your server credentials, run the following commands to deploy:
 mup setup
 mup deploy
 ```
-** Make sure you have mongodb installed in your server before the deployment process.
+** Make sure you have mongodb installed in your server before you start the deployment process.
 
 
 
