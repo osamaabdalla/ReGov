@@ -24,25 +24,25 @@ $ npm start
 
 
 ### Folders structure
-![](https://cldup.com/dTxpPi9lDf.thumb.png)
+![](https://raw.githubusercontent.com/osamaabdalla/ReGov/master/Screenshots/FoldersStructure.png)
 
 ### Actions Page
-![](https://cldup.com/dTxpPi9lDf.thumb.png)
+![](https://raw.githubusercontent.com/osamaabdalla/ReGov/master/Screenshots/Actions.png)
 
 ### Login Page
-![](https://cldup.com/dTxpPi9lDf.thumb.png)
+![](https://raw.githubusercontent.com/osamaabdalla/ReGov/master/Screenshots/Login.png)
 
 ### Register Page
-![](https://cldup.com/dTxpPi9lDf.thumb.png)
+![](https://raw.githubusercontent.com/osamaabdalla/ReGov/master/Screenshots/Register.png)
 
 ### Recover Password Page
-![](https://cldup.com/dTxpPi9lDf.thumb.png)
+![](https://raw.githubusercontent.com/osamaabdalla/ReGov/master/Screenshots/RecoverPassword.png)
 
 ### Submission Page
-![](https://cldup.com/dTxpPi9lDf.thumb.png)
-
-### Submission Page
-![](https://cldup.com/dTxpPi9lDf.thumb.png)
+![](https://raw.githubusercontent.com/osamaabdalla/ReGov/master/Screenshots/Submission.png)
 
 ### Edit Submission Page
-![](https://cldup.com/dTxpPi9lDf.thumb.png)
+![](https://raw.githubusercontent.com/osamaabdalla/ReGov/master/Screenshots/EditSubmission.png)
+
+
+### Thanks.
