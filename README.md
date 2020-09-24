@@ -1,6 +1,6 @@
-# ReGov
+# ReGov Challenge
  
-### Run instructions
+### Run instructions:
 
 After downloading the code, run the following command to start the app:
 
@@ -32,7 +32,7 @@ $ npm start
 
 ### Deployment instructions
 
-The app embedded with meteor-up package, so it is ready to be deployed to any server, you have to change your server credentials:
+The app is embedded with meteor-up package for deployment purposes, so it is ready to be deployed to any server, just change your server credentials as follows:
 
 mup file location: (".deploy/mup.js")
 
