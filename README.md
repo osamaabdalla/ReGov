@@ -2,13 +2,13 @@
  
 ### Run instructions
 
-After downloading the code, run the following commands :
+After downloading the code, run the following command to start the app:
 
 ```sh
 $ npm start
 ```
 
-### the app is buils using:
+### the app is built using:
 
 - Meteor
 - Reactjs
@@ -17,6 +17,7 @@ $ npm start
 ### Main tasks:
 
 - Register
+- Personal data and ID
 - Login
 - Recover Password
 - Update submission
