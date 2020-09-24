@@ -13,6 +13,7 @@ $ npm start
 - Meteor
 - Reactjs
 - MongoDB
+- Bootstrap
 
 ### Main tasks:
 
