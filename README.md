@@ -56,7 +56,7 @@ mup deploy
 ### Folders structure
 ![](https://raw.githubusercontent.com/osamaabdalla/ReGov/master/Screenshots/FoldersStructure.png)
 
-### Actions Page
+### App Actions
 ![](https://raw.githubusercontent.com/osamaabdalla/ReGov/master/Screenshots/Actions.png)
 
 ### Login Page
